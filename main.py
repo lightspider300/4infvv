@@ -1,0 +1,6 @@
+print("Hallo")
+print("lightspider300")
+print("")
+print("windmolenstraat")
+print("")
+print("frietjes")
